@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/addressesmanager",
+    "name": "boing6002/addressesmanager",
     "description": "Addresses Manager for Laravel Enso",
     "keywords": [
         "laravel-enso",
@@ -10,7 +10,7 @@
     "type": "library",
     "require": {
         "laravel-enso/activitylog": "1.1.*",
-        "laravel-enso/core": "3.5.*",
+        "boing6002/core": "dev-master",
         "laravel-enso/formbuilder": "2.12.*",
         "laravel-enso/helpers": "1.10.*",
         "laravel-enso/select": "2.8.*",
